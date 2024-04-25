@@ -1,0 +1,1 @@
+# the-sum-of-the-terms-of-the-series
